@@ -5,3 +5,4 @@ O objetivo desse projeto foi colocar em prática todo conhecimeto adquirido dura
 
 Demosntração do Projeto:
 <img href='pa-bgc/pixels-art.gif' alt='gif do projeto'></img>
+
