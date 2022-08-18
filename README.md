@@ -6,5 +6,5 @@ O objetivo desse projeto foi colocar em prática todo conhecimeto adquirido dura
 ### Demosntração do Projeto:
 <img src='pa-bgc/pixels-art.gif' alt='gif do projeto'></img>;
 
-### Link para acessar o projeto: https://jeancarlos-sc.github.io/pixels-art
+### Link para acessar o projeto: https://jeancarlos-sc.github.io/Project-Pixels-Art
 
